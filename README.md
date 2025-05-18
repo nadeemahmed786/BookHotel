@@ -1,7 +1,7 @@
 # BookHotel
 Selenium Test for booking hotel
 
-This Automation Framework is created using Java + Selenium Web Driver, Which can be used across different web based applications. In this approach, the endeavor is to build a lot of applications independent reusable keyword components so that they can directly used for another web application without spending any extra effort. 
+Automation Framework is created using Java + Selenium Web Driver, Which can be used across different web based applications.
 
 Prerequisites:
 Java jdk-1.8 or higher
